@@ -1,6 +1,6 @@
 # Welcome
 
-# Plan
+## Plan
 
 **What's in it for me?**
 
